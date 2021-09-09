@@ -17,3 +17,4 @@ And also the password is displayed in generated area.
 Ben Atkinson. (Instructor)
 Yun Zhao. (TA)
 W3 schoolwebsite.
+![_C__Users_ripon_Desktop_homework-password-generator_Develop_index html](https://user-images.githubusercontent.com/86772467/132698862-69019d6e-8b3a-4591-93b2-67c84acc22d9.png)
